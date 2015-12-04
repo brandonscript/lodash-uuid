@@ -1,0 +1,24 @@
+{
+  "name": "lodash-mix",
+  "version": "0.1.0",
+  "description": "Lodash mixins",
+  "main": "index.js",
+  "scripts": {
+    "test": "node_modules/tape/bin/tape test/**/*.js"
+  },
+  "author": "Stein Fletcher",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/steinfletcher/lodash-mix"
+  },
+  "devDependencies": {
+    "tape": "^2.14.0"
+  },
+  "dependencies": {
+    "lodash": "^3.8.0"
+  },
+  "bugs": {
+    "url": "https://github.com/tapatron/lodash-mix/issues"
+  }
+}
