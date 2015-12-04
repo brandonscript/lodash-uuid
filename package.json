@@ -1,24 +1,28 @@
 {
-  "name": "lodash-mix",
-  "version": "0.1.0",
-  "description": "Lodash mixins",
-  "main": "index.js",
-  "scripts": {
-    "test": "node_modules/tape/bin/tape test/**/*.js"
-  },
-  "author": "Stein Fletcher",
-  "license": "ISC",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/steinfletcher/lodash-mix"
-  },
-  "devDependencies": {
-    "tape": "^2.14.0"
-  },
-  "dependencies": {
-    "lodash": "^3.8.0"
-  },
-  "bugs": {
-    "url": "https://github.com/tapatron/lodash-mix/issues"
-  }
+    "author": "Stein Fletcher",
+    "bugs": {
+        "url": "https://github.com/r3mus/lodash-uuid/issues"
+    },
+    "contributors": [{
+        "name": "Brandon Shelley",
+        "email": "i.am@r3m.us"
+    }],
+    "dependencies": {
+        "lodash": "^3.8.0"
+    },
+    "description": "A uuid validation and generation mixin for lodash.",
+    "devDependencies": {
+        "tape": "^2.14.0"
+    },
+    "license": "ISC",
+    "main": "index.js",
+    "name": "lodash-uuid",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/r3mus/lodash-uuid/issues"
+    },
+    "scripts": {
+        "test": "node_modules/tape/bin/tape test/**/*.js"
+    },
+    "version": "0.0.1"
 }
